@@ -92,11 +92,12 @@ pytest
 ---
 
 ### Author & Contact
-- **Ken Saidimu** — Biomedical Engineer & Full-Stack Developer  
+- **Kennedy Saidimu** — Biomedical Engineer & Full-Stack Developer  
   - GitHub: [@saidimuKennedy](https://github.com/saidimuKennedy)  
-  - Email: saidimukennedy@gmail.com  
+  - Email: waruirukennedy2@gmail.com  
 
 ---
 
 ### License
 - MIT
+
